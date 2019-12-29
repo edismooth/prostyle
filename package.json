@@ -1,0 +1,31 @@
+{
+  "name": "prostyle.css",
+  "version": "0.0.1",
+  "description": "Simple CSS framework",
+  "main": "dist/css/prostyle.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edismooth/prostyle.css.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "scss",
+    "simple",
+    "prostyle"
+  ],
+  "author": "Oskar Gembalski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/edismooth/prostyle.css/issues"
+  },
+  "homepage": "https://github.com/edismooth/prostyle.css#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
